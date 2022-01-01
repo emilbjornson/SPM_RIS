@@ -3,7 +3,7 @@
 %Emil Björnson, Henk Wymeersch, Bho Matthiesen, Petar Popovski, Luca
 %Sanguinetti, and Elisabeth de Carvalho “Reconfigurable Intelligent
 %Surfaces: A Signal Processing Perspective With Wireless Applications,”
-%IEEE Signal Processing Magazine, To appear in March 2021.
+%IEEE Signal Processing Magazine, To appear in March 2022.
 %
 %Download article: https://arxiv.org/pdf/2102.00742.pdf
 %
